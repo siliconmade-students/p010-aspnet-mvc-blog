@@ -8,5 +8,9 @@ namespace App.Web.Mvc.Controllers
         {
             return View();
         }
+        public void Test()
+        {
+
+        }
     }
 }
