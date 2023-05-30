@@ -10,7 +10,7 @@ namespace App.Web.Mvc.Controllers
         }
         public void Test()
         {
-
+            Console.WriteLine("asdada");
         }
     }
 }
